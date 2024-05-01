@@ -9,4 +9,3 @@ disable = missing-module-docstring,
           wrong-import-order,
           too-few-public-methods,
           protected-access,
-
